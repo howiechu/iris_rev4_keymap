@@ -1,5 +1,5 @@
 # iris_rev4_keymap
-Custom keymap for Iris mechanical keyboard
+Custom keymap for Iris mechanical keyboard from : [here](https://keeb.io/collections/iris-split-ergonomic-keyboard)
 - contains macros for auto-typing strings
 - contains code for using rotary encoders that can change functions based off of layers
 
